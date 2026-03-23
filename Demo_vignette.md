@@ -1,10 +1,15 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Starting an R Project with a GitHub Repository
 
 **A practical vignette for reproducible research workflows**
   
   ---
   
-  ## Prerequisites
+  ## Prerequisites -- do this first 
   
   - R and RStudio installed
 - Git installed (`git --version` in your terminal to check)
